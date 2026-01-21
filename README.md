@@ -1,4 +1,4 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
 ---
 
 # ✅ Крипто-проверка: 22 кошелька, NFT, проверка неработающих LDB, интеграция с Debank ✅
@@ -105,5 +105,6 @@
 ## Угостить меня Кофе
 
 ![Alt text](https://github.com/nop-74/OPEN-AI-FREE-KEYS/blob/main/300.jpg)  300р
+
 
 
