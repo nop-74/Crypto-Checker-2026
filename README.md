@@ -102,9 +102,12 @@
 
 ---
 
+![Alt text](https://github.com/nop-74/Crypto-Checker-2026/blob/main/5.jpg)
+
 ## Угостить меня Кофе
 
 ![Alt text](https://github.com/nop-74/OPEN-AI-FREE-KEYS/blob/main/300.jpg)  300р
+
 
 
 
